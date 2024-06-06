@@ -1,3 +1,4 @@
+![logo](https://github.com/mukherjee-syamantak/mukherjee-syamantak/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)
 <h1 align="center">Hi 👋, I'm Syamantak Mukherjee</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
 
